@@ -23,6 +23,6 @@ USER INSTRUCTIONS:
 
 For the project description open the 3)Project-Description-v1.0.docx file, in the 12)Class-Diagram v1.0.docx there is a section with all the methods used in the code explained.
 
-The code implemantation is not finished because we had only 4 months for the whole project, the project idea is relatively large for the given time.
+The code implemantation is not finished because we had only 4 months for the whole project, the project idea is relatively large for the given time.Despite that the important operations are running smoothly.
 
 Thank you for your time!
