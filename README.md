@@ -1,4 +1,4 @@
-# Software-technology
+# Software-technology project
 
 My team project in Software technology
 
